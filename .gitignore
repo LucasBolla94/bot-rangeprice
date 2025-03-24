@@ -1,0 +1,22 @@
+# Ignore o ambiente virtual
+venv/
+
+# Ignore arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore configurações do sistema
+.DS_Store
+Thumbs.db
+
+# Ignore seu arquivo de variáveis secretas
+.env
+
+# Ignore backup ou cache de editor
+*.log
+*.bak
+*.swp
+
+# VSCode (se usar)
+.vscode/
